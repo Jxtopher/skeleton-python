@@ -1,1 +1,1 @@
-# skeleton-python
+# Skeleton python
